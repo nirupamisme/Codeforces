@@ -35,6 +35,9 @@
 *.out
 *.app
 
+# System files
+.DS_Store
+
 # Directories
 bin/
 
